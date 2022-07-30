@@ -23,3 +23,4 @@ if aliens < 7400000000:
     print("Nooooo! The aliens have outnumbered us. All is lost.")
 else:
     print("Hooray! We won the fight and the world is saved!")
+# This is a python program so it probably will not work for other languages
