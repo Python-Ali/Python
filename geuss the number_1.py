@@ -8,3 +8,4 @@ while geuss != number:
         print("Your number was too high...")
     geuss = int(input("Please try again..."))
 print("Congratulations! Correct answer!")
+# This is a python program so it probably will not work for other languages
