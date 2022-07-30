@@ -19,7 +19,7 @@ while geuss != password:
     print("Password hint: the things that are attacking us.")
     print()
     geuss = input("Quick! Please enter the password: ").upper()
-if aliens > 7400000000:
+if aliens < 7400000000:
     print("Nooooo! The aliens have outnumbered us. All is lost.")
 else:
     print("Hooray! We won the fight and the world is saved!")
