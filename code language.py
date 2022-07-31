@@ -8,3 +8,4 @@ for currentCharacter in StrinEncry:
     newPosition = position + shiftAmount
     encrystring = encrystring + alpha[newPosition]
 print("Your encrypted message is", encrystring)
+# This is a python program and it probably won't work for other languages.
