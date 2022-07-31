@@ -21,3 +21,4 @@ while True:
     print()
     input("Press enter to play again.")
     print()
+# This is a python program and probably won't work for other languages.
